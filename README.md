@@ -2,7 +2,7 @@
 
 : 꿈꾸는 것들을 이뤄나가며, 다양한 분야를 도전해보고 싶습니다 ⭐️
 
-### 🤖Android Developer, 📊Data Engineer
+### 🤖 Android Developer, 📊 Data Engineer
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=oh-bom)](https://github.com/anuraghazra/github-readme-stats)
 
