@@ -2,7 +2,7 @@
 
 : I strive to turn my dreams into achievements and explore various fields with enthusiasm ⭐️
 
-### 🤖 Android Developer, 📊 Software Development Engineer
+### 🤖 Software Development Engineer
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=oh-bom)](https://github.com/anuraghazra/github-readme-stats)
 
